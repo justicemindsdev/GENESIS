@@ -71,7 +71,7 @@ const ClipCard: React.FC<ClipCardProps> = ({ clip, isActive, onActivate }) => {
       <div 
         className={`
           overflow-hidden transition-[max-height,opacity] duration-500 ease-in-out
-          ${isActive ? 'max-h-[600px] opacity-100' : 'max-h-0 opacity-0'}
+          ${isActive ? 'max-h-[700px] opacity-100' : 'max-h-0 opacity-0'}
         `}
       >
         {isActive && (
