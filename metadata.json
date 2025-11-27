@@ -1,0 +1,5 @@
+{
+  "name": "Grain Evidence Viewer",
+  "description": "A forensic dashboard for reviewing Grain recording highlights, transcripts, and evidence clips regarding the Notting Hill Genesis case.",
+  "requestFramePermissions": []
+}
